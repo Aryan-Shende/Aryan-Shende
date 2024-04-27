@@ -1,4 +1,4 @@
-                                                                                     ## Hi👋, I'm Aryan Shende
+# Hi👋, I'm Aryan Shende
 
 <!--
 **Aryan-Shende/Aryan-Shende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
